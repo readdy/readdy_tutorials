@@ -7,8 +7,7 @@ is nothing more than a json string. The required metadata must have the followin
 ```javascript
 "metadata": {
     "readdy" : {
-         "title": "Internal API",
-         "category": "demonstration",
+         "title": "Simple example",
          "position": "1"
     },
     ...
