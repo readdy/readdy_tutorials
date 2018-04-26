@@ -5,12 +5,12 @@ All notebooks located in this repo must have certain metadata. The metadata is l
 is nothing more than a json string. The required metadata must have the following form:
 
 ```javascript
-"metadata": {
-    "readdy" : {
-         "title": "Simple example",
-         "position": "1"
-    },
-    ...
+{
+  "readdy" : {
+    "title": "Simple example",
+    "position": "1"
+  },
+  ...
 }
 ```
 
